@@ -4,6 +4,8 @@
 
 ![Preview](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Prev.png?raw=true)
 
+##  <p align="center">[Realease](https://github.com/KarasevQ/God-Cursor/releases)</p>
+
 ## What does this mod do?
 It adds the ability to turn the cursor—which previously could only select pawns and control them through menus—into… a God Cursor! Now your cursor can:
 
@@ -75,6 +77,10 @@ I am not hiding at all that I used AI while creating the mod. However, the mod w
 
 Well… Thanks Claude?
 
+## My contact details:
+
+[Discord](https://discord.com/users/715221766905266266)
+
 ## License: **MIT**
 (What the hell does that mean??? – I just… don't care. Do whatever you want with it, just credit me. Thanks.)
 
@@ -86,6 +92,9 @@ Well… Thanks Claude?
 # God Cursor
 
 ![Preview](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Prev.png?raw=true)
+
+
+##  <p align="center">[Realease](https://github.com/KarasevQ/God-Cursor/releases)</p>
 
 ##  Что делает этот мод?
 Он добавляет возможность превратить курсор, который ранее был способен лишь выбирать пешек и управлять ими через меню в… Бога-курсора! Теперь ваш курсор будет способен:
@@ -165,6 +174,10 @@ F8 – Вызов меню мода и включение/выключение �
 ##  Кредиты:
 
 Ну… Спасибо Claude?
+
+##  Мои контакты:
+
+[Discord](https://discord.com/users/715221766905266266)
 
 ## Лицензия: **MIT**
 (Что это черт подери значит??? – Мне просто... Все равно. Делайте с этим что хотите, просто укажите меня в кредитах. Спасибо.)
