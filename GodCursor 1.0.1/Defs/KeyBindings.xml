@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <KeyBindingCategoryDef>
+    <defName>GodCursor</defName>
+    <label>God Cursor</label>
+    <description>Hotkeys of the God Cursor mod.</description>
+  </KeyBindingCategoryDef>
+
+  <KeyBindingDef>
+    <defName>GC_ToggleGodCursor</defName>
+    <label>toggle god cursor</label>
+    <category>GodCursor</category>
+    <defaultKeyCodeA>F8</defaultKeyCodeA>
+  </KeyBindingDef>
+</Defs>

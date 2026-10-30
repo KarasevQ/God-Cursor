@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>God Cursor</name>
+  <author>MeringueQ</author>
+  <modVersion>1.0.1</modVersion>
+  <packageId>godcursor.meringueq</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Превращает ваш курсор мыши в божество.
+
+Хватайте поселенцев, животных и налетчиков, перемещайте их по карте, швыряйте в разные стороны (с нанесением урона или без), тыкайте в них или гладьте.
+
+«Четвертая стена»: персонажи замечают курсор. У них формируется к нему отношение (поклонение, симпатия, страх), они начинают нервничать, когда курсор зависает над ними, и постепенно осознают, что живут внутри экрана. Всё это находит отражение в их мыслях.
+
+Режим включается клавишей F8 (назначение клавиши можно изменить в меню «Настройки» -> «Назначение клавиш»). При активации появляется перемещаемая панель управления.
+
+Управление в этом режиме:
+- Левая кнопка мыши (ЛКМ) + перетаскивание персонажа: поднять.
+- Отпустить кнопку плавно: опустить персонажа на землю.
+- Отпустить кнопку во время быстрого движения: бросить персонажа.
+- Shift + ЛКМ: тыкнуть (напугать).
+- Ctrl + ЛКМ: погладить (также успокаивает напуганного).
+
+Требуется наличие мода Harmony.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>

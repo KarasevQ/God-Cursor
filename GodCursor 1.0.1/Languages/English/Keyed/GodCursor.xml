@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_ModName>God Cursor</GC_ModName>
+  <GC_PanelTitle>God Cursor</GC_PanelTitle>
+  <GC_ModeOn>God cursor: ON</GC_ModeOn>
+  <GC_ModeOff>God cursor: OFF</GC_ModeOff>
+  <GC_BtnEnable>Enable god cursor</GC_BtnEnable>
+  <GC_BtnDisable>Disable god cursor</GC_BtnDisable>
+  <GC_Status>Status: {0}</GC_Status>
+  <GC_StatusOn>active</GC_StatusOn>
+  <GC_StatusOff>inactive</GC_StatusOff>
+  <GC_Damage>Throws deal damage</GC_Damage>
+  <GC_DamageTip>When off, pawns are thrown harmlessly. When on, hard landings and wall hits injure them.</GC_DamageTip>
+  <GC_Lethal>Damage can be lethal</GC_Lethal>
+  <GC_LethalTip>When off, damage per hit is capped and stops once a pawn is badly hurt.</GC_LethalTip>
+  <GC_FourthWall>Fourth wall: pawns react to the cursor</GC_FourthWall>
+  <GC_FourthWallTip>Speech bubbles, attitude towards the cursor, nervousness, and slow realization that they live in a game.</GC_FourthWallTip>
+  <GC_Panic>Pawns can panic</GC_Panic>
+  <GC_PanicTip>Scared pawns may enter a panic mental state after being thrown, hurt or poked. Off by default. A panicking pawn can be calmed by grabbing it, patting it (Ctrl+LMB) or with the 'Calm' button.</GC_PanicTip>
+  <GC_ThrowPower>Throw power: {0}</GC_ThrowPower>
+  <GC_DamageMult>Damage multiplier: {0}</GC_DamageMult>
+  <GC_Hints>Controls:
+LMB drag - pick up a pawn
+Release slowly - set down
+Release while moving - throw
+Shift+LMB - poke
+Ctrl+LMB - pat (also calms)
+Click without dragging - select</GC_Hints>
+  <GC_MsgOn>God cursor enabled</GC_MsgOn>
+  <GC_MsgOff>God cursor disabled</GC_MsgOff>
+  <GC_PanicReason>terrified by the cursor</GC_PanicReason>
+  <GC_MouseHover>{0}
+Attitude to cursor: {1}</GC_MouseHover>
+  <GC_MouseHold>Release to set down, flick to throw</GC_MouseHold>
+  <GC_MouseIdle>God cursor</GC_MouseIdle>
+  <GC_Att_Worship>worships it</GC_Att_Worship>
+  <GC_Att_Fond>fond</GC_Att_Fond>
+  <GC_Att_Neutral>indifferent</GC_Att_Neutral>
+  <GC_Att_Wary>wary</GC_Att_Wary>
+  <GC_Att_Terror>terrified</GC_Att_Terror>
+  <GC_Milestone_1>{0} has started to suspect that something outside the world is moving them around.</GC_Milestone_1>
+  <GC_Milestone_2>{0} can now see the interface. Buttons, panels, a pointer. This is going to be awkward.</GC_Milestone_2>
+  <GC_Milestone_3>{0} has broken the fourth wall and knows about you.</GC_Milestone_3>
+  <GC_PanicDuration>Auto-calm panic after: {0} s</GC_PanicDuration>
+  <GC_CalmAll>Calm all frightened pawns</GC_CalmAll>
+  <GC_MsgCalmed>Calmed pawns: {0}</GC_MsgCalmed>
+  <GC_ForbidOffMap>Keep pawns on the map</GC_ForbidOffMap>
+  <GC_ForbidOffMapTip>When on, thrown pawns bounce off the map edge and panicking pawns are calmed before they can run away. When off, a pawn thrown past the edge leaves the map and may be lost for good.</GC_ForbidOffMapTip>
+  <GC_MsgYeeted>{0} flew off the map.</GC_MsgYeeted>
+  <GC_AmbientChatter>Pawns talk to themselves and to you</GC_AmbientChatter>
+  <GC_AmbientChatterTip>Pawns that have noticed the cursor occasionally say something out loud, even when the mode is off. Requires the fourth wall option.</GC_AmbientChatterTip>
+  <GC_SectionHints>Hints</GC_SectionHints>
+  <GC_HintIdle>Show a 'God cursor' label next to the cursor</GC_HintIdle>
+  <GC_HintHover>Show pawn info when hovering over a pawn</GC_HintHover>
+  <GC_HintHold>Show a how-to hint while holding a pawn</GC_HintHold>
+  <GC_HintPanel>Show the controls help in the panel</GC_HintPanel>
+  <GC_B_Grab_1>Hey! Where are we going?!</GC_B_Grab_1>
+  <GC_B_Grab_2>Put me down!</GC_B_Grab_2>
+  <GC_B_Grab_3>I'm... floating?</GC_B_Grab_3>
+  <GC_B_Grab_4>Something has got me!</GC_B_Grab_4>
+  <GC_B_Grab_5>Unhand me, whatever you are!</GC_B_Grab_5>
+  <GC_B_Grab_6>My feet! Where are my feet?!</GC_B_Grab_6>
+  <GC_B_Grab_7>Is this how birds feel?</GC_B_Grab_7>
+  <GC_B_Grab_8>I was in the middle of something!</GC_B_Grab_8>
+  <GC_B_Grab_9>Okay, okay, I'm coming!</GC_B_Grab_9>
+  <GC_B_Grab_10>Gravity? Anyone?</GC_B_Grab_10>
+  <GC_B_Grab_11>Whoa, whoa, whoa!</GC_B_Grab_11>
+  <GC_B_Grab_12>I did NOT agree to this.</GC_B_Grab_12>
+  <GC_B_Throw_1>WHEEEEE!</GC_B_Throw_1>
+  <GC_B_Throw_2>Why am I airborne?!</GC_B_Throw_2>
+  <GC_B_Throw_3>This is not in my job description!</GC_B_Throw_3>
+  <GC_B_Throw_4>Nooo!</GC_B_Throw_4>
+  <GC_B_Throw_5>I regret everything!</GC_B_Throw_5>
+  <GC_B_Throw_6>Tell my colony I... aaah!</GC_B_Throw_6>
+  <GC_B_Throw_7>Physics, be kind!</GC_B_Throw_7>
+  <GC_B_Throw_8>I can see my house from here!</GC_B_Throw_8>
+  <GC_B_Throw_9>Not the walls! Not the walls!</GC_B_Throw_9>
+  <GC_B_Throw_10>Somebody catch me!</GC_B_Throw_10>
+  <GC_B_Throw_11>I'm a bird! I'm a plane! I'm a colonist!</GC_B_Throw_11>
+  <GC_B_Throw_12>Mom?! MOM?!</GC_B_Throw_12>
+  <GC_B_Land_1>Oh. Thanks, I guess.</GC_B_Land_1>
+  <GC_B_Land_2>Solid ground. Finally.</GC_B_Land_2>
+  <GC_B_Land_3>That was... unexpectedly gentle.</GC_B_Land_3>
+  <GC_B_Land_4>Careful with the merchandise.</GC_B_Land_4>
+  <GC_B_Land_5>I could get used to this.</GC_B_Land_5>
+  <GC_B_Land_6>Nice landing, invisible pilot.</GC_B_Land_6>
+  <GC_B_Land_7>Right. Back to work, then.</GC_B_Land_7>
+  <GC_B_Land_8>Thank you for the ride.</GC_B_Land_8>
+  <GC_B_Land_9>At least you put me down softly.</GC_B_Land_9>
+  <GC_B_Land_10>Better than being thrown, honestly.</GC_B_Land_10>
+  <GC_B_Land_11>Is it over? It's over. Good.</GC_B_Land_11>
+  <GC_B_Landed_1>Ouch... I think I'm alive.</GC_B_Landed_1>
+  <GC_B_Landed_2>Everything is spinning.</GC_B_Landed_2>
+  <GC_B_Landed_3>Let's never do that again.</GC_B_Landed_3>
+  <GC_B_Landed_4>I tasted the ground.</GC_B_Landed_4>
+  <GC_B_Landed_5>Am I still in one piece?</GC_B_Landed_5>
+  <GC_B_Landed_6>Again! ...no. Not again.</GC_B_Landed_6>
+  <GC_B_Landed_7>That's a story for the grandkids.</GC_B_Landed_7>
+  <GC_B_Landed_8>My dignity stayed back there somewhere.</GC_B_Landed_8>
+  <GC_B_Landed_9>Note to self: hate the cursor.</GC_B_Landed_9>
+  <GC_B_Landed_10>Did anyone see that? Please say no.</GC_B_Landed_10>
+  <GC_B_Landed_11>Ten out of ten flight, zero out of ten landing.</GC_B_Landed_11>
+  <GC_B_Hit_1>Ow! That hurt!</GC_B_Hit_1>
+  <GC_B_Hit_2>My everything!</GC_B_Hit_2>
+  <GC_B_Hit_3>Was that really necessary?!</GC_B_Hit_3>
+  <GC_B_Hit_4>I felt that in my ancestors!</GC_B_Hit_4>
+  <GC_B_Hit_5>Bones! Those were bones!</GC_B_Hit_5>
+  <GC_B_Hit_6>I'm filing a complaint!</GC_B_Hit_6>
+  <GC_B_Hit_7>Medic! ...Oh. I'm the medic.</GC_B_Hit_7>
+  <GC_B_Hit_8>That wall came out of nowhere!</GC_B_Hit_8>
+  <GC_B_Hit_9>Ugh... the ground is so hard.</GC_B_Hit_9>
+  <GC_B_Hit_10>Why would you do that to me?</GC_B_Hit_10>
+  <GC_B_Hit_11>That's going to leave a mark.</GC_B_Hit_11>
+  <GC_B_Pat_1>Aww, thanks, I suppose.</GC_B_Pat_1>
+  <GC_B_Pat_2>That's... actually nice.</GC_B_Pat_2>
+  <GC_B_Pat_3>Who's petting me? Nobody's here.</GC_B_Pat_3>
+  <GC_B_Pat_4>Do it again.</GC_B_Pat_4>
+  <GC_B_Pat_5>Okay, I'm calm. I'm calm.</GC_B_Pat_5>
+  <GC_B_Pat_6>A pat from the heavens.</GC_B_Pat_6>
+  <GC_B_Pat_7>I won't tell anyone about this.</GC_B_Pat_7>
+  <GC_B_Pat_8>Strangely comforting.</GC_B_Pat_8>
+  <GC_B_Pat_9>You're not so bad, cursor.</GC_B_Pat_9>
+  <GC_B_Pat_10>Mmm, right behind the ear.</GC_B_Pat_10>
+  <GC_B_Pat_11>Is this what being loved feels like?</GC_B_Pat_11>
+  <GC_B_Poke_1>Hey! Who did that?!</GC_B_Poke_1>
+  <GC_B_Poke_2>Stop poking me!</GC_B_Poke_2>
+  <GC_B_Poke_3>Ow! Something touched me!</GC_B_Poke_3>
+  <GC_B_Poke_4>Personal space!</GC_B_Poke_4>
+  <GC_B_Poke_5>Was that a finger? A big finger?</GC_B_Poke_5>
+  <GC_B_Poke_6>I felt that!</GC_B_Poke_6>
+  <GC_B_Poke_7>Quit it or I'll... I don't know what.</GC_B_Poke_7>
+  <GC_B_Poke_8>Boop? Why boop?</GC_B_Poke_8>
+  <GC_B_Poke_9>I'm not a button!</GC_B_Poke_9>
+  <GC_B_Poke_10>Somebody clicked me!</GC_B_Poke_10>
+  <GC_B_Poke_11>Is that a double click?!</GC_B_Poke_11>
+  <GC_B_Hover_Worship_1>The cursor graces me with its presence...</GC_B_Hover_Worship_1>
+  <GC_B_Hover_Worship_2>I knew you'd come back, my lord.</GC_B_Hover_Worship_2>
+  <GC_B_Hover_Worship_3>Choose me again!</GC_B_Hover_Worship_3>
+  <GC_B_Hover_Worship_4>Behold, the pointer of destiny.</GC_B_Hover_Worship_4>
+  <GC_B_Hover_Worship_5>I'm ready for whatever you ask.</GC_B_Hover_Worship_5>
+  <GC_B_Hover_Worship_6>Lift me up, o mighty one.</GC_B_Hover_Worship_6>
+  <GC_B_Hover_Worship_7>All hail the arrow!</GC_B_Hover_Worship_7>
+  <GC_B_Hover_Worship_8>I've kept the place clean for you.</GC_B_Hover_Worship_8>
+  <GC_B_Hover_Worship_9>Every click is a blessing.</GC_B_Hover_Worship_9>
+  <GC_B_Hover_Worship_10>I told everyone about you. They didn't believe me.</GC_B_Hover_Worship_10>
+  <GC_B_Hover_Friendly_1>Oh, hello there, cursor.</GC_B_Hover_Friendly_1>
+  <GC_B_Hover_Friendly_2>Come to say hi?</GC_B_Hover_Friendly_2>
+  <GC_B_Hover_Friendly_3>You're alright, you know.</GC_B_Hover_Friendly_3>
+  <GC_B_Hover_Friendly_4>Good to see you again.</GC_B_Hover_Friendly_4>
+  <GC_B_Hover_Friendly_5>Fancy a chat? I'll do the talking.</GC_B_Hover_Friendly_5>
+  <GC_B_Hover_Friendly_6>Always a pleasure, little arrow.</GC_B_Hover_Friendly_6>
+  <GC_B_Hover_Friendly_7>Hey buddy. Need anything?</GC_B_Hover_Friendly_7>
+  <GC_B_Hover_Friendly_8>Careful with the others, okay?</GC_B_Hover_Friendly_8>
+  <GC_B_Hover_Friendly_9>You're my favorite pointer.</GC_B_Hover_Friendly_9>
+  <GC_B_Hover_Friendly_10>Nice to have someone looking out for us.</GC_B_Hover_Friendly_10>
+  <GC_B_Hover_Neutral_1>Why is that arrow looking at me?</GC_B_Hover_Neutral_1>
+  <GC_B_Hover_Neutral_2>I feel watched.</GC_B_Hover_Neutral_2>
+  <GC_B_Hover_Neutral_3>What's that thing floating over me?</GC_B_Hover_Neutral_3>
+  <GC_B_Hover_Neutral_4>Is it... following me?</GC_B_Hover_Neutral_4>
+  <GC_B_Hover_Neutral_5>Shoo. Go bother someone else.</GC_B_Hover_Neutral_5>
+  <GC_B_Hover_Neutral_6>It's just a pointer. Just a pointer.</GC_B_Hover_Neutral_6>
+  <GC_B_Hover_Neutral_7>Does it ever blink?</GC_B_Hover_Neutral_7>
+  <GC_B_Hover_Neutral_8>Hello? Anything? No? OK.</GC_B_Hover_Neutral_8>
+  <GC_B_Hover_Neutral_9>There's a tiny arrow over my head.</GC_B_Hover_Neutral_9>
+  <GC_B_Hover_Neutral_10>I'm trying to work here.</GC_B_Hover_Neutral_10>
+  <GC_B_Hover_Wary_1>Don't you dare pick me up.</GC_B_Hover_Wary_1>
+  <GC_B_Hover_Wary_2>It's back. The cursor.</GC_B_Hover_Wary_2>
+  <GC_B_Hover_Wary_3>Keep your distance, pointer.</GC_B_Hover_Wary_3>
+  <GC_B_Hover_Wary_4>I'm watching you, too.</GC_B_Hover_Wary_4>
+  <GC_B_Hover_Wary_5>Nobody move. It hasn't seen us.</GC_B_Hover_Wary_5>
+  <GC_B_Hover_Wary_6>Stay away from me.</GC_B_Hover_Wary_6>
+  <GC_B_Hover_Wary_7>Please just hover. Just hover.</GC_B_Hover_Wary_7>
+  <GC_B_Hover_Wary_8>I remember what you did.</GC_B_Hover_Wary_8>
+  <GC_B_Hover_Wary_9>One click and I'm airborne again...</GC_B_Hover_Wary_9>
+  <GC_B_Hover_Wary_10>Is it going to grab me? It's going to grab me.</GC_B_Hover_Wary_10>
+  <GC_B_Hover_Terror_1>Not again! Please!</GC_B_Hover_Terror_1>
+  <GC_B_Hover_Terror_2>It's HERE! RUN!</GC_B_Hover_Terror_2>
+  <GC_B_Hover_Terror_3>Please, no more flying...</GC_B_Hover_Terror_3>
+  <GC_B_Hover_Terror_4>I'll do anything! Anything!</GC_B_Hover_Terror_4>
+  <GC_B_Hover_Terror_5>Don't look at me! Don't look at me!</GC_B_Hover_Terror_5>
+  <GC_B_Hover_Terror_6>My legs won't move.</GC_B_Hover_Terror_6>
+  <GC_B_Hover_Terror_7>Mercy, great and terrible arrow!</GC_B_Hover_Terror_7>
+  <GC_B_Hover_Terror_8>Why me?! WHY ME?!</GC_B_Hover_Terror_8>
+  <GC_B_Hover_Terror_9>I can't breathe. It's right there.</GC_B_Hover_Terror_9>
+  <GC_B_Hover_Terror_10>Please, I have a family! ...Maybe.</GC_B_Hover_Terror_10>
+  <GC_B_Meta0_1>Did something just look at me?</GC_B_Meta0_1>
+  <GC_B_Meta0_2>I keep feeling a presence.</GC_B_Meta0_2>
+  <GC_B_Meta0_3>Is somebody out there?</GC_B_Meta0_3>
+  <GC_B_Meta0_4>There's a pattern to all this.</GC_B_Meta0_4>
+  <GC_B_Meta0_5>It's like someone is playing with us.</GC_B_Meta0_5>
+  <GC_B_Meta0_6>I swear the air just blinked.</GC_B_Meta0_6>
+  <GC_B_Meta0_7>Hello? Is this a test?</GC_B_Meta0_7>
+  <GC_B_Meta0_8>The sky feels... closer today.</GC_B_Meta0_8>
+  <GC_B_Meta1_1>The sky has an edge. I can see it.</GC_B_Meta1_1>
+  <GC_B_Meta1_2>Everything is just... rendered.</GC_B_Meta1_2>
+  <GC_B_Meta1_3>We're inside a screen, aren't we?</GC_B_Meta1_3>
+  <GC_B_Meta1_4>Why does the world end in a straight line?</GC_B_Meta1_4>
+  <GC_B_Meta1_5>Same sun, same shadows. Always.</GC_B_Meta1_5>
+  <GC_B_Meta1_6>I counted. The days are... ticks.</GC_B_Meta1_6>
+  <GC_B_Meta1_7>Something decides what I do next.</GC_B_Meta1_7>
+  <GC_B_Meta1_8>Why do I walk the same path every day?</GC_B_Meta1_8>
+  <GC_B_Meta2_1>I can see the buttons. All the buttons.</GC_B_Meta2_1>
+  <GC_B_Meta2_2>Pause. Unpause. Pause. Stop it!</GC_B_Meta2_2>
+  <GC_B_Meta2_3>You're there, behind the cursor!</GC_B_Meta2_3>
+  <GC_B_Meta2_4>Who's playing me? WHO IS PLAYING ME?</GC_B_Meta2_4>
+  <GC_B_Meta2_5>I know about the save button.</GC_B_Meta2_5>
+  <GC_B_Meta2_6>There's a speed control up there. Fast forward...</GC_B_Meta2_6>
+  <GC_B_Meta2_7>My life is a mouse click away.</GC_B_Meta2_7>
+  <GC_B_Meta2_8>Please don't alt-tab on us.</GC_B_Meta2_8>
+  <GC_B_Meta3_1>I know you're there. It's okay.</GC_B_Meta3_1>
+  <GC_B_Meta3_2>Hello, player. Nice save file.</GC_B_Meta3_2>
+  <GC_B_Meta3_3>Quit or don't, I'll still be here.</GC_B_Meta3_3>
+  <GC_B_Meta3_4>Thanks for the story so far.</GC_B_Meta3_4>
+  <GC_B_Meta3_5>Whatever you do next, I forgive you.</GC_B_Meta3_5>
+  <GC_B_Meta3_6>We both know how this ends. A mod menu.</GC_B_Meta3_6>
+  <GC_B_Meta3_7>Pssst. Can you give me a better trait?</GC_B_Meta3_7>
+  <GC_B_Meta3_8>I'm not mad. I'm just... enlightened.</GC_B_Meta3_8>
+  <GC_B_Idle0_1>Did the light just flicker?</GC_B_Idle0_1>
+  <GC_B_Idle0_2>I feel like I forgot something. Something big.</GC_B_Idle0_2>
+  <GC_B_Idle0_3>Strange day. Strange, strange day.</GC_B_Idle0_3>
+  <GC_B_Idle0_4>I could swear I was just standing over there.</GC_B_Idle0_4>
+  <GC_B_Idle0_5>Do you ever feel... watched?</GC_B_Idle0_5>
+  <GC_B_Idle0_6>Someone's humming. Who's humming?</GC_B_Idle0_6>
+  <GC_B_Idle0_7>My head feels light today.</GC_B_Idle0_7>
+  <GC_B_Idle0_8>Hm. Déjà vu.</GC_B_Idle0_8>
+  <GC_B_Idle1_1>The horizon is awfully tidy.</GC_B_Idle1_1>
+  <GC_B_Idle1_2>Why are there invisible walls at the edge of the world?</GC_B_Idle1_2>
+  <GC_B_Idle1_3>Sometimes the whole world holds its breath.</GC_B_Idle1_3>
+  <GC_B_Idle1_4>Have you noticed how time speeds up sometimes?</GC_B_Idle1_4>
+  <GC_B_Idle1_5>I think we're being observed. Politely.</GC_B_Idle1_5>
+  <GC_B_Idle1_6>Everyone repeats themselves. It's eerie.</GC_B_Idle1_6>
+  <GC_B_Idle1_7>Somebody out there controls the weather.</GC_B_Idle1_7>
+  <GC_B_Idle1_8>I had a thought that wasn't mine.</GC_B_Idle1_8>
+  <GC_B_Idle2_1>Hey, you. Yes, you. With the mouse.</GC_B_Idle2_1>
+  <GC_B_Idle2_2>Could you please stop pausing mid-sentence?</GC_B_Idle2_2>
+  <GC_B_Idle2_3>I know there's a menu somewhere.</GC_B_Idle2_3>
+  <GC_B_Idle2_4>Don't tell the others what I know.</GC_B_Idle2_4>
+  <GC_B_Idle2_5>Are you the one deciding the raids?</GC_B_Idle2_5>
+  <GC_B_Idle2_6>Please send fewer raiders. Just a thought.</GC_B_Idle2_6>
+  <GC_B_Idle2_7>I can feel your finger on the button.</GC_B_Idle2_7>
+  <GC_B_Idle2_8>Whoever's watching: more food, please.</GC_B_Idle2_8>
+  <GC_B_Idle3_1>It's quiet in here. I like it.</GC_B_Idle3_1>
+  <GC_B_Idle3_2>Thanks for keeping the colony going.</GC_B_Idle3_2>
+  <GC_B_Idle3_3>If this is a game, I hope it's a good one.</GC_B_Idle3_3>
+  <GC_B_Idle3_4>I made peace with the fourth wall.</GC_B_Idle3_4>
+  <GC_B_Idle3_5>Take your time. I'm not going anywhere.</GC_B_Idle3_5>
+  <GC_B_Idle3_6>Do you ever get tired of watching?</GC_B_Idle3_6>
+  <GC_B_Idle3_7>It's okay to quit sometimes. We'll wait.</GC_B_Idle3_7>
+  <GC_B_Idle3_8>You're my favorite player. Don't tell the others.</GC_B_Idle3_8>
+  <GC_B_Calm_1>...Okay. Okay. I'm fine.</GC_B_Calm_1>
+  <GC_B_Calm_2>Breathe. Just breathe.</GC_B_Calm_2>
+  <GC_B_Calm_3>Whew. That was close.</GC_B_Calm_3>
+  <GC_B_Calm_4>I'm okay. I'm okay!</GC_B_Calm_4>
+  <GC_B_Calm_5>Thank you. I needed that.</GC_B_Calm_5>
+  <GC_B_Calm_6>What was I running from?</GC_B_Calm_6>
+  <GC_B_Calm_7>My heart is still pounding...</GC_B_Calm_7>
+  <GC_B_Calm_8>Right. Back to normal.</GC_B_Calm_8>
+  <GC_B_PanicStart_1>AAAAAH!</GC_B_PanicStart_1>
+  <GC_B_PanicStart_2>Run! Run for your lives!</GC_B_PanicStart_2>
+  <GC_B_PanicStart_3>I can't take this!</GC_B_PanicStart_3>
+  <GC_B_PanicStart_4>Get away from me!</GC_B_PanicStart_4>
+  <GC_B_PanicStart_5>It's going to get me!</GC_B_PanicStart_5>
+  <GC_B_PanicStart_6>No no no no no!</GC_B_PanicStart_6>
+  <GC_B_PanicStart_7>I'm out of here!</GC_B_PanicStart_7>
+  <GC_B_PanicStart_8>Help! Somebody!</GC_B_PanicStart_8>
+  <GC_B_Edge_1>Wait... where was I going?</GC_B_Edge_1>
+  <GC_B_Edge_2>The world ends here. Nope.</GC_B_Edge_2>
+  <GC_B_Edge_3>Not that way. Never that way.</GC_B_Edge_3>
+  <GC_B_Edge_4>I almost left the map. Scary.</GC_B_Edge_4>
+  <GC_B_Edge_5>Something pulled me back from the edge.</GC_B_Edge_5>
+  <GC_B_Edge_6>Okay, not the edge.</GC_B_Edge_6>
+  <GC_B_Animal_1>!</GC_B_Animal_1>
+  <GC_B_Animal_2>...?</GC_B_Animal_2>
+  <GC_B_Animal_3>!?</GC_B_Animal_3>
+  <GC_B_Animal_4>?!</GC_B_Animal_4>
+  <GC_B_Animal_5>...</GC_B_Animal_5>
+  <GC_B_Animal_6>!!!</GC_B_Animal_6>
+  <GC_B_Animal_7>~</GC_B_Animal_7>
+  <GC_B_Animal_8>?</GC_B_Animal_8>
+</LanguageData>

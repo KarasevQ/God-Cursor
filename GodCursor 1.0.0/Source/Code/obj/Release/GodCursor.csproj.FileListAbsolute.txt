@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\GodCursor\Source\obj\Release\GodCursor.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GodCursor\Source\obj\Release\GodCursor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\GodCursor\Source\obj\Release\GodCursor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GodCursor\Assemblies\GodCursor.dll
+C:\Users\User\Downloads\GodCursor\Source\obj\Release\GodCursor.dll

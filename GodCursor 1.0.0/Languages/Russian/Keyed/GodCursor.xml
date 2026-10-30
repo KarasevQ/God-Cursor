@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_ModName>Курсор-бог</GC_ModName>
+  <GC_PanelTitle>Курсор-бог</GC_PanelTitle>
+  <GC_ModeOn>Курсор-бог: ВКЛ</GC_ModeOn>
+  <GC_ModeOff>Курсор-бог: ВЫКЛ</GC_ModeOff>
+  <GC_BtnEnable>Включить курсор-бога</GC_BtnEnable>
+  <GC_BtnDisable>Выключить курсор-бога</GC_BtnDisable>
+  <GC_Status>Статус: {0}</GC_Status>
+  <GC_StatusOn>активен</GC_StatusOn>
+  <GC_StatusOff>выключен</GC_StatusOff>
+  <GC_Damage>Броски наносят урон</GC_Damage>
+  <GC_DamageTip>Если выключено, пешек можно кидать без вреда. Если включено, жёсткие приземления и удары о стены наносят травмы.</GC_DamageTip>
+  <GC_Lethal>Урон может быть смертельным</GC_Lethal>
+  <GC_LethalTip>Если выключено, урон за удар ограничен и прекращается, когда пешка уже сильно ранена.</GC_LethalTip>
+  <GC_FourthWall>Четвёртая стена: пешки реагируют на курсор</GC_FourthWall>
+  <GC_FourthWallTip>Реплики, отношение к курсору, нервозность и постепенное осознание, что они живут в игре.</GC_FourthWallTip>
+  <GC_Panic>Пешки могут впадать в панику</GC_Panic>
+  <GC_PanicTip>Напуганные пешки могут впасть в паническое состояние после броска, травмы или тычка.</GC_PanicTip>
+  <GC_ThrowPower>Сила броска: {0}</GC_ThrowPower>
+  <GC_DamageMult>Множитель урона: {0}</GC_DamageMult>
+  <GC_Hints>Управление:
+ЛКМ + тянуть - поднять пешку
+Отпустить медленно - поставить
+Отпустить на ходу - бросок
+Shift+ЛКМ - ткнуть
+Ctrl+ЛКМ - погладить
+Простой клик - выбрать пешку</GC_Hints>
+  <GC_MsgOn>Курсор-бог включён</GC_MsgOn>
+  <GC_MsgOff>Курсор-бог выключен</GC_MsgOff>
+  <GC_PanicReason>в ужасе от курсора</GC_PanicReason>
+  <GC_MouseHover>{0}
+Отношение к курсору: {1}</GC_MouseHover>
+  <GC_MouseHold>Отпусти — поставить, взмах — бросить</GC_MouseHold>
+  <GC_MouseIdle>Курсор-бог</GC_MouseIdle>
+  <GC_Att_Worship>боготворит</GC_Att_Worship>
+  <GC_Att_Fond>симпатия</GC_Att_Fond>
+  <GC_Att_Neutral>безразличие</GC_Att_Neutral>
+  <GC_Att_Wary>опаска</GC_Att_Wary>
+  <GC_Att_Terror>ужас</GC_Att_Terror>
+  <GC_Milestone_1>{0} начал подозревать, что нечто за пределами мира двигает его по карте.</GC_Milestone_1>
+  <GC_Milestone_2>{0} теперь видит интерфейс: кнопки, панели, указатель. Это будет неловко.</GC_Milestone_2>
+  <GC_Milestone_3>{0} сломал(а) четвёртую стену и знает о вас.</GC_Milestone_3>
+  <GC_B_Grab_1>Эй! Куда мы?!</GC_B_Grab_1>
+  <GC_B_Grab_2>Поставь на место!</GC_B_Grab_2>
+  <GC_B_Grab_3>Я... парю?</GC_B_Grab_3>
+  <GC_B_Grab_4>Что-то меня схватило!</GC_B_Grab_4>
+  <GC_B_Throw_1>УУУУУУ!</GC_B_Throw_1>
+  <GC_B_Throw_2>Почему я лечу?!</GC_B_Throw_2>
+  <GC_B_Throw_3>Это не входит в мои обязанности!</GC_B_Throw_3>
+  <GC_B_Throw_4>Неееет!</GC_B_Throw_4>
+  <GC_B_Land_1>О. Ну... спасибо.</GC_B_Land_1>
+  <GC_B_Land_2>Твёрдая земля. Наконец-то.</GC_B_Land_2>
+  <GC_B_Land_3>Это было... неожиданно бережно.</GC_B_Land_3>
+  <GC_B_Hit_1>Ай! Больно!</GC_B_Hit_1>
+  <GC_B_Hit_2>Моё всё!</GC_B_Hit_2>
+  <GC_B_Hit_3>Это было обязательно?!</GC_B_Hit_3>
+  <GC_B_Pat_1>Ну спасибо, наверное.</GC_B_Pat_1>
+  <GC_B_Pat_2>Это... вообще-то приятно.</GC_B_Pat_2>
+  <GC_B_Pat_3>Кто меня гладит? Тут же никого.</GC_B_Pat_3>
+  <GC_B_Poke_1>Эй! Кто это сделал?!</GC_B_Poke_1>
+  <GC_B_Poke_2>Хватит тыкать!</GC_B_Poke_2>
+  <GC_B_Poke_3>Ай! Что-то меня тронуло!</GC_B_Poke_3>
+  <GC_B_Hover_Worship_1>Курсор одаривает меня своим вниманием...</GC_B_Hover_Worship_1>
+  <GC_B_Hover_Worship_2>Я знал, что ты вернёшься, владыка.</GC_B_Hover_Worship_2>
+  <GC_B_Hover_Worship_3>Выбери меня снова!</GC_B_Hover_Worship_3>
+  <GC_B_Hover_Friendly_1>О, привет, курсор.</GC_B_Hover_Friendly_1>
+  <GC_B_Hover_Friendly_2>Зашёл поздороваться?</GC_B_Hover_Friendly_2>
+  <GC_B_Hover_Friendly_3>А ты неплох, знаешь ли.</GC_B_Hover_Friendly_3>
+  <GC_B_Hover_Neutral_1>Почему эта стрелка на меня смотрит?</GC_B_Hover_Neutral_1>
+  <GC_B_Hover_Neutral_2>Чувствую себя под наблюдением.</GC_B_Hover_Neutral_2>
+  <GC_B_Hover_Neutral_3>Что это надо мной висит?</GC_B_Hover_Neutral_3>
+  <GC_B_Hover_Wary_1>Только попробуй меня поднять.</GC_B_Hover_Wary_1>
+  <GC_B_Hover_Wary_2>Он вернулся. Курсор.</GC_B_Hover_Wary_2>
+  <GC_B_Hover_Wary_3>Держись подальше, указатель.</GC_B_Hover_Wary_3>
+  <GC_B_Hover_Terror_1>Только не снова! Пожалуйста!</GC_B_Hover_Terror_1>
+  <GC_B_Hover_Terror_2>Он ЗДЕСЬ! БЕГИТЕ!</GC_B_Hover_Terror_2>
+  <GC_B_Hover_Terror_3>Пожалуйста, больше никаких полётов...</GC_B_Hover_Terror_3>
+  <GC_B_Meta0_1>Что-то только что посмотрело на меня?</GC_B_Meta0_1>
+  <GC_B_Meta0_2>Меня не покидает ощущение чьего-то присутствия.</GC_B_Meta0_2>
+  <GC_B_Meta0_3>Там кто-нибудь есть?</GC_B_Meta0_3>
+  <GC_B_Meta1_1>У неба есть край. Я его вижу.</GC_B_Meta1_1>
+  <GC_B_Meta1_2>Всё это просто... отрисовано.</GC_B_Meta1_2>
+  <GC_B_Meta1_3>Мы внутри экрана, да?</GC_B_Meta1_3>
+  <GC_B_Meta2_1>Я вижу кнопки. Все кнопки.</GC_B_Meta2_1>
+  <GC_B_Meta2_2>Пауза. Пуск. Пауза. Хватит!</GC_B_Meta2_2>
+  <GC_B_Meta2_3>Ты там, за курсором!</GC_B_Meta2_3>
+  <GC_B_Meta3_1>Я знаю, что ты там. Всё нормально.</GC_B_Meta3_1>
+  <GC_B_Meta3_2>Привет, игрок. Хороший файл сохранения.</GC_B_Meta3_2>
+  <GC_B_Meta3_3>Выйдешь ты или нет, я всё равно буду здесь.</GC_B_Meta3_3>
+  <GC_B_Animal_1>!</GC_B_Animal_1>
+  <GC_B_Animal_2>...?</GC_B_Animal_2>
+  <GC_B_Animal_3>!?</GC_B_Animal_3>
+</LanguageData>

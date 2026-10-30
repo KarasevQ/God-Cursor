@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_ModName>Курсор-бог</GC_ModName>
+  <GC_PanelTitle>Курсор-бог</GC_PanelTitle>
+  <GC_ModeOn>Курсор-бог: ВКЛ</GC_ModeOn>
+  <GC_ModeOff>Курсор-бог: ВЫКЛ</GC_ModeOff>
+  <GC_BtnEnable>Включить курсор-бога</GC_BtnEnable>
+  <GC_BtnDisable>Выключить курсор-бога</GC_BtnDisable>
+  <GC_Status>Статус: {0}</GC_Status>
+  <GC_StatusOn>активен</GC_StatusOn>
+  <GC_StatusOff>выключен</GC_StatusOff>
+  <GC_Damage>Броски наносят урон</GC_Damage>
+  <GC_DamageTip>Если выключено, пешек можно кидать без вреда. Если включено, жёсткие приземления и удары о стены наносят травмы.</GC_DamageTip>
+  <GC_Lethal>Урон может быть смертельным</GC_Lethal>
+  <GC_LethalTip>Если выключено, урон за удар ограничен и прекращается, когда пешка уже сильно ранена.</GC_LethalTip>
+  <GC_FourthWall>Четвёртая стена: пешки реагируют на курсор</GC_FourthWall>
+  <GC_FourthWallTip>Реплики, отношение к курсору, нервозность и постепенное осознание, что они живут в игре.</GC_FourthWallTip>
+  <GC_Panic>Пешки могут впадать в панику</GC_Panic>
+  <GC_PanicTip>Напуганные пешки могут впасть в панику после броска, травмы или тычка. По умолчанию выключено. Паникующую пешку можно успокоить: схватить её, погладить (Ctrl+ЛКМ) или нажать кнопку «Успокоить».</GC_PanicTip>
+  <GC_ThrowPower>Сила броска: {0}</GC_ThrowPower>
+  <GC_DamageMult>Множитель урона: {0}</GC_DamageMult>
+  <GC_Hints>Управление:
+ЛКМ + тянуть - поднять пешку
+Отпустить медленно - поставить
+Отпустить на ходу - бросок
+Shift+ЛКМ - ткнуть
+Ctrl+ЛКМ - погладить (и успокоить)
+Простой клик - выбрать пешку</GC_Hints>
+  <GC_MsgOn>Курсор-бог включён</GC_MsgOn>
+  <GC_MsgOff>Курсор-бог выключен</GC_MsgOff>
+  <GC_PanicReason>в ужасе от курсора</GC_PanicReason>
+  <GC_MouseHover>{0}
+Отношение к курсору: {1}</GC_MouseHover>
+  <GC_MouseHold>Отпусти — поставить, взмах — бросить</GC_MouseHold>
+  <GC_MouseIdle>Курсор-бог</GC_MouseIdle>
+  <GC_Att_Worship>боготворит</GC_Att_Worship>
+  <GC_Att_Fond>симпатия</GC_Att_Fond>
+  <GC_Att_Neutral>безразличие</GC_Att_Neutral>
+  <GC_Att_Wary>опаска</GC_Att_Wary>
+  <GC_Att_Terror>ужас</GC_Att_Terror>
+  <GC_Milestone_1>{0} начал подозревать, что нечто за пределами мира двигает его по карте.</GC_Milestone_1>
+  <GC_Milestone_2>{0} теперь видит интерфейс: кнопки, панели, указатель. Это будет неловко.</GC_Milestone_2>
+  <GC_Milestone_3>{0} сломал(а) четвёртую стену и знает о вас.</GC_Milestone_3>
+  <GC_PanicDuration>Автоуспокоение паники через: {0} с</GC_PanicDuration>
+  <GC_CalmAll>Успокоить всех напуганных пешек</GC_CalmAll>
+  <GC_MsgCalmed>Успокоено пешек: {0}</GC_MsgCalmed>
+  <GC_ForbidOffMap>Не выпускать пешек за пределы карты</GC_ForbidOffMap>
+  <GC_ForbidOffMapTip>Если включено, брошенные пешки отскакивают от края карты, а паникующих успокаивает раньше, чем они убегут. Если выключено, пешка, брошенная за край, покинет карту и может быть потеряна навсегда.</GC_ForbidOffMapTip>
+  <GC_MsgYeeted>{0} вылетел(а) за пределы карты.</GC_MsgYeeted>
+  <GC_AmbientChatter>Пешки говорят сами с собой и с вами</GC_AmbientChatter>
+  <GC_AmbientChatterTip>Пешки, заметившие курсор, время от времени говорят что-нибудь вслух, даже когда режим выключен. Требует включённой «четвёртой стены».</GC_AmbientChatterTip>
+  <GC_SectionHints>Подсказки</GC_SectionHints>
+  <GC_HintIdle>Показывать надпись «Курсор-бог» у курсора</GC_HintIdle>
+  <GC_HintHover>Показывать информацию о пешке при наведении</GC_HintHover>
+  <GC_HintHold>Показывать подсказку при удержании пешки</GC_HintHold>
+  <GC_HintPanel>Показывать справку по управлению в панели</GC_HintPanel>
+  <GC_B_Grab_1>Эй! Куда мы?!</GC_B_Grab_1>
+  <GC_B_Grab_2>Поставь на место!</GC_B_Grab_2>
+  <GC_B_Grab_3>Я... парю?</GC_B_Grab_3>
+  <GC_B_Grab_4>Что-то меня схватило!</GC_B_Grab_4>
+  <GC_B_Grab_5>Отпусти, кто бы ты ни был!</GC_B_Grab_5>
+  <GC_B_Grab_6>Мои ноги! Где мои ноги?!</GC_B_Grab_6>
+  <GC_B_Grab_7>Так себя чувствуют птицы?</GC_B_Grab_7>
+  <GC_B_Grab_8>Я вообще-то был занят!</GC_B_Grab_8>
+  <GC_B_Grab_9>Ладно-ладно, иду!</GC_B_Grab_9>
+  <GC_B_Grab_10>Гравитация? Есть кто?</GC_B_Grab_10>
+  <GC_B_Grab_11>Ого, ого, ого!</GC_B_Grab_11>
+  <GC_B_Grab_12>Я на это НЕ соглашался.</GC_B_Grab_12>
+  <GC_B_Throw_1>УУУУУУ!</GC_B_Throw_1>
+  <GC_B_Throw_2>Почему я лечу?!</GC_B_Throw_2>
+  <GC_B_Throw_3>Это не входит в мои обязанности!</GC_B_Throw_3>
+  <GC_B_Throw_4>Неееет!</GC_B_Throw_4>
+  <GC_B_Throw_5>Я обо всём жалею!</GC_B_Throw_5>
+  <GC_B_Throw_6>Передайте колонии, что я... аааа!</GC_B_Throw_6>
+  <GC_B_Throw_7>Физика, будь милосердна!</GC_B_Throw_7>
+  <GC_B_Throw_8>Отсюда видно мой дом!</GC_B_Throw_8>
+  <GC_B_Throw_9>Только не стены! Только не стены!</GC_B_Throw_9>
+  <GC_B_Throw_10>Кто-нибудь, поймайте!</GC_B_Throw_10>
+  <GC_B_Throw_11>Я птица! Я самолёт! Я колонист!</GC_B_Throw_11>
+  <GC_B_Throw_12>Мама?! МАМА?!</GC_B_Throw_12>
+  <GC_B_Land_1>О. Ну... спасибо.</GC_B_Land_1>
+  <GC_B_Land_2>Твёрдая земля. Наконец-то.</GC_B_Land_2>
+  <GC_B_Land_3>Это было... неожиданно бережно.</GC_B_Land_3>
+  <GC_B_Land_4>Поаккуратнее с товаром.</GC_B_Land_4>
+  <GC_B_Land_5>Я мог бы привыкнуть.</GC_B_Land_5>
+  <GC_B_Land_6>Хорошая посадка, невидимый пилот.</GC_B_Land_6>
+  <GC_B_Land_7>Ну. Значит, обратно к работе.</GC_B_Land_7>
+  <GC_B_Land_8>Спасибо за поездку.</GC_B_Land_8>
+  <GC_B_Land_9>Хоть поставил мягко.</GC_B_Land_9>
+  <GC_B_Land_10>Всё лучше, чем когда бросают.</GC_B_Land_10>
+  <GC_B_Land_11>Всё? Всё. Хорошо.</GC_B_Land_11>
+  <GC_B_Landed_1>Ой... кажется, я жив.</GC_B_Landed_1>
+  <GC_B_Landed_2>Всё кружится.</GC_B_Landed_2>
+  <GC_B_Landed_3>Давай больше никогда так не делать.</GC_B_Landed_3>
+  <GC_B_Landed_4>Я попробовал землю на вкус.</GC_B_Landed_4>
+  <GC_B_Landed_5>Я всё ещё целиком?</GC_B_Landed_5>
+  <GC_B_Landed_6>Ещё! ...Нет. Только не ещё.</GC_B_Landed_6>
+  <GC_B_Landed_7>Будет что рассказать внукам.</GC_B_Landed_7>
+  <GC_B_Landed_8>Моё достоинство осталось где-то там.</GC_B_Landed_8>
+  <GC_B_Landed_9>Заметка себе: ненавидеть курсор.</GC_B_Landed_9>
+  <GC_B_Landed_10>Кто-нибудь видел? Скажите, что нет.</GC_B_Landed_10>
+  <GC_B_Landed_11>Полёт на десять, посадка на ноль.</GC_B_Landed_11>
+  <GC_B_Hit_1>Ай! Больно!</GC_B_Hit_1>
+  <GC_B_Hit_2>Моё всё!</GC_B_Hit_2>
+  <GC_B_Hit_3>Это было обязательно?!</GC_B_Hit_3>
+  <GC_B_Hit_4>Это почувствовали даже мои предки!</GC_B_Hit_4>
+  <GC_B_Hit_5>Кости! Это были кости!</GC_B_Hit_5>
+  <GC_B_Hit_6>Я подаю жалобу!</GC_B_Hit_6>
+  <GC_B_Hit_7>Медика! ...А, я же сам медик.</GC_B_Hit_7>
+  <GC_B_Hit_8>Эта стена появилась из ниоткуда!</GC_B_Hit_8>
+  <GC_B_Hit_9>Уф... земля такая твёрдая.</GC_B_Hit_9>
+  <GC_B_Hit_10>За что ты так со мной?</GC_B_Hit_10>
+  <GC_B_Hit_11>Это оставит след.</GC_B_Hit_11>
+  <GC_B_Pat_1>Ну спасибо, наверное.</GC_B_Pat_1>
+  <GC_B_Pat_2>Это... вообще-то приятно.</GC_B_Pat_2>
+  <GC_B_Pat_3>Кто меня гладит? Тут же никого.</GC_B_Pat_3>
+  <GC_B_Pat_4>Сделай так ещё.</GC_B_Pat_4>
+  <GC_B_Pat_5>Хорошо, я спокоен. Я спокоен.</GC_B_Pat_5>
+  <GC_B_Pat_6>Поглаживание с небес.</GC_B_Pat_6>
+  <GC_B_Pat_7>Я никому не расскажу.</GC_B_Pat_7>
+  <GC_B_Pat_8>Странно успокаивает.</GC_B_Pat_8>
+  <GC_B_Pat_9>Ты не так уж плох, курсор.</GC_B_Pat_9>
+  <GC_B_Pat_10>Ммм, вот за ухом.</GC_B_Pat_10>
+  <GC_B_Pat_11>Так ощущается, когда тебя любят?</GC_B_Pat_11>
+  <GC_B_Poke_1>Эй! Кто это сделал?!</GC_B_Poke_1>
+  <GC_B_Poke_2>Хватит тыкать!</GC_B_Poke_2>
+  <GC_B_Poke_3>Ай! Что-то меня тронуло!</GC_B_Poke_3>
+  <GC_B_Poke_4>Личное пространство!</GC_B_Poke_4>
+  <GC_B_Poke_5>Это был палец? Огромный палец?</GC_B_Poke_5>
+  <GC_B_Poke_6>Я это почувствовал!</GC_B_Poke_6>
+  <GC_B_Poke_7>Прекрати, а то я... не знаю что.</GC_B_Poke_7>
+  <GC_B_Poke_8>Бип? Зачем бип?</GC_B_Poke_8>
+  <GC_B_Poke_9>Я не кнопка!</GC_B_Poke_9>
+  <GC_B_Poke_10>Кто-то на меня кликнул!</GC_B_Poke_10>
+  <GC_B_Poke_11>Это что, двойной клик?!</GC_B_Poke_11>
+  <GC_B_Hover_Worship_1>Курсор дарует мне своё присутствие...</GC_B_Hover_Worship_1>
+  <GC_B_Hover_Worship_2>Я знал, что ты вернёшься, владыка.</GC_B_Hover_Worship_2>
+  <GC_B_Hover_Worship_3>Выбери меня снова!</GC_B_Hover_Worship_3>
+  <GC_B_Hover_Worship_4>Узрите, указатель судьбы.</GC_B_Hover_Worship_4>
+  <GC_B_Hover_Worship_5>Я готов ко всему, что ты пожелаешь.</GC_B_Hover_Worship_5>
+  <GC_B_Hover_Worship_6>Подними меня, о могучий.</GC_B_Hover_Worship_6>
+  <GC_B_Hover_Worship_7>Слава стрелке!</GC_B_Hover_Worship_7>
+  <GC_B_Hover_Worship_8>Я тут прибрал специально для тебя.</GC_B_Hover_Worship_8>
+  <GC_B_Hover_Worship_9>Каждый клик — благословение.</GC_B_Hover_Worship_9>
+  <GC_B_Hover_Worship_10>Я всем о тебе рассказал. Мне не поверили.</GC_B_Hover_Worship_10>
+  <GC_B_Hover_Friendly_1>О, привет, курсор.</GC_B_Hover_Friendly_1>
+  <GC_B_Hover_Friendly_2>Зашёл поздороваться?</GC_B_Hover_Friendly_2>
+  <GC_B_Hover_Friendly_3>А ты неплох, знаешь ли.</GC_B_Hover_Friendly_3>
+  <GC_B_Hover_Friendly_4>Рад тебя видеть.</GC_B_Hover_Friendly_4>
+  <GC_B_Hover_Friendly_5>Поболтаем? Говорить буду я.</GC_B_Hover_Friendly_5>
+  <GC_B_Hover_Friendly_6>Всегда приятно, стрелочка.</GC_B_Hover_Friendly_6>
+  <GC_B_Hover_Friendly_7>Эй, приятель. Что-то нужно?</GC_B_Hover_Friendly_7>
+  <GC_B_Hover_Friendly_8>Поаккуратнее с остальными, ладно?</GC_B_Hover_Friendly_8>
+  <GC_B_Hover_Friendly_9>Ты мой любимый указатель.</GC_B_Hover_Friendly_9>
+  <GC_B_Hover_Friendly_10>Приятно, когда за нами присматривают.</GC_B_Hover_Friendly_10>
+  <GC_B_Hover_Neutral_1>Почему эта стрелка на меня смотрит?</GC_B_Hover_Neutral_1>
+  <GC_B_Hover_Neutral_2>Чувствую себя под наблюдением.</GC_B_Hover_Neutral_2>
+  <GC_B_Hover_Neutral_3>Что это надо мной висит?</GC_B_Hover_Neutral_3>
+  <GC_B_Hover_Neutral_4>Оно... следит за мной?</GC_B_Hover_Neutral_4>
+  <GC_B_Hover_Neutral_5>Кыш. Иди доставай кого-нибудь другого.</GC_B_Hover_Neutral_5>
+  <GC_B_Hover_Neutral_6>Это просто указатель. Просто указатель.</GC_B_Hover_Neutral_6>
+  <GC_B_Hover_Neutral_7>Оно когда-нибудь моргает?</GC_B_Hover_Neutral_7>
+  <GC_B_Hover_Neutral_8>Алло? Что-нибудь? Нет? Ладно.</GC_B_Hover_Neutral_8>
+  <GC_B_Hover_Neutral_9>У меня над головой маленькая стрелка.</GC_B_Hover_Neutral_9>
+  <GC_B_Hover_Neutral_10>Вообще-то я тут работаю.</GC_B_Hover_Neutral_10>
+  <GC_B_Hover_Wary_1>Только попробуй меня поднять.</GC_B_Hover_Wary_1>
+  <GC_B_Hover_Wary_2>Он вернулся. Курсор.</GC_B_Hover_Wary_2>
+  <GC_B_Hover_Wary_3>Держись подальше, указатель.</GC_B_Hover_Wary_3>
+  <GC_B_Hover_Wary_4>Я тоже за тобой наблюдаю.</GC_B_Hover_Wary_4>
+  <GC_B_Hover_Wary_5>Никому не двигаться. Оно нас не заметило.</GC_B_Hover_Wary_5>
+  <GC_B_Hover_Wary_6>Держись от меня подальше.</GC_B_Hover_Wary_6>
+  <GC_B_Hover_Wary_7>Пожалуйста, просто повисите. Просто повисите.</GC_B_Hover_Wary_7>
+  <GC_B_Hover_Wary_8>Я помню, что ты сделал.</GC_B_Hover_Wary_8>
+  <GC_B_Hover_Wary_9>Один клик — и я снова в воздухе...</GC_B_Hover_Wary_9>
+  <GC_B_Hover_Wary_10>Оно меня схватит? Оно меня схватит.</GC_B_Hover_Wary_10>
+  <GC_B_Hover_Terror_1>Только не снова! Пожалуйста!</GC_B_Hover_Terror_1>
+  <GC_B_Hover_Terror_2>Он ЗДЕСЬ! БЕГИТЕ!</GC_B_Hover_Terror_2>
+  <GC_B_Hover_Terror_3>Пожалуйста, больше никаких полётов...</GC_B_Hover_Terror_3>
+  <GC_B_Hover_Terror_4>Я всё сделаю! Всё!</GC_B_Hover_Terror_4>
+  <GC_B_Hover_Terror_5>Не смотри на меня! Не смотри!</GC_B_Hover_Terror_5>
+  <GC_B_Hover_Terror_6>Ноги не слушаются.</GC_B_Hover_Terror_6>
+  <GC_B_Hover_Terror_7>Пощады, великая и ужасная стрелка!</GC_B_Hover_Terror_7>
+  <GC_B_Hover_Terror_8>Почему я?! ПОЧЕМУ Я?!</GC_B_Hover_Terror_8>
+  <GC_B_Hover_Terror_9>Я не могу дышать. Он прямо там.</GC_B_Hover_Terror_9>
+  <GC_B_Hover_Terror_10>Пожалуйста, у меня семья! ...Наверное.</GC_B_Hover_Terror_10>
+  <GC_B_Meta0_1>Что-то только что посмотрело на меня?</GC_B_Meta0_1>
+  <GC_B_Meta0_2>Меня не покидает ощущение чьего-то присутствия.</GC_B_Meta0_2>
+  <GC_B_Meta0_3>Там кто-нибудь есть?</GC_B_Meta0_3>
+  <GC_B_Meta0_4>Во всём этом есть какая-то закономерность.</GC_B_Meta0_4>
+  <GC_B_Meta0_5>Как будто кто-то с нами играет.</GC_B_Meta0_5>
+  <GC_B_Meta0_6>Клянусь, воздух только что моргнул.</GC_B_Meta0_6>
+  <GC_B_Meta0_7>Алло? Это проверка?</GC_B_Meta0_7>
+  <GC_B_Meta0_8>Небо сегодня... как будто ближе.</GC_B_Meta0_8>
+  <GC_B_Meta1_1>У неба есть край. Я его вижу.</GC_B_Meta1_1>
+  <GC_B_Meta1_2>Всё это просто... отрисовано.</GC_B_Meta1_2>
+  <GC_B_Meta1_3>Мы внутри экрана, да?</GC_B_Meta1_3>
+  <GC_B_Meta1_4>Почему мир заканчивается ровной линией?</GC_B_Meta1_4>
+  <GC_B_Meta1_5>То же солнце, те же тени. Всегда.</GC_B_Meta1_5>
+  <GC_B_Meta1_6>Я считал. Дни — это... тики.</GC_B_Meta1_6>
+  <GC_B_Meta1_7>Что-то решает, что мне делать дальше.</GC_B_Meta1_7>
+  <GC_B_Meta1_8>Почему я каждый день хожу одним путём?</GC_B_Meta1_8>
+  <GC_B_Meta2_1>Я вижу кнопки. Все кнопки.</GC_B_Meta2_1>
+  <GC_B_Meta2_2>Пауза. Пуск. Пауза. Хватит!</GC_B_Meta2_2>
+  <GC_B_Meta2_3>Ты там, за курсором!</GC_B_Meta2_3>
+  <GC_B_Meta2_4>Кто мной играет? КТО МНОЙ ИГРАЕТ?</GC_B_Meta2_4>
+  <GC_B_Meta2_5>Я знаю про кнопку сохранения.</GC_B_Meta2_5>
+  <GC_B_Meta2_6>Там наверху есть управление скоростью. Перемотка...</GC_B_Meta2_6>
+  <GC_B_Meta2_7>Моя жизнь — в одном клике мыши.</GC_B_Meta2_7>
+  <GC_B_Meta2_8>Пожалуйста, не сворачивай игру.</GC_B_Meta2_8>
+  <GC_B_Meta3_1>Я знаю, что ты там. Всё нормально.</GC_B_Meta3_1>
+  <GC_B_Meta3_2>Привет, игрок. Хороший файл сохранения.</GC_B_Meta3_2>
+  <GC_B_Meta3_3>Выйдешь ты или нет, я всё равно буду здесь.</GC_B_Meta3_3>
+  <GC_B_Meta3_4>Спасибо за историю на данный момент.</GC_B_Meta3_4>
+  <GC_B_Meta3_5>Что бы ты ни сделал дальше, я тебя прощаю.</GC_B_Meta3_5>
+  <GC_B_Meta3_6>Мы оба знаем, чем это кончится. Меню модов.</GC_B_Meta3_6>
+  <GC_B_Meta3_7>Псс. Дашь мне трейт получше?</GC_B_Meta3_7>
+  <GC_B_Meta3_8>Я не злюсь. Я просто... просветлён.</GC_B_Meta3_8>
+  <GC_B_Idle0_1>Свет только что мигнул?</GC_B_Idle0_1>
+  <GC_B_Idle0_2>Такое чувство, будто я забыл что-то важное.</GC_B_Idle0_2>
+  <GC_B_Idle0_3>Странный день. Очень, очень странный.</GC_B_Idle0_3>
+  <GC_B_Idle0_4>Могу поклясться, только что я стоял вон там.</GC_B_Idle0_4>
+  <GC_B_Idle0_5>У тебя бывает ощущение... что за тобой следят?</GC_B_Idle0_5>
+  <GC_B_Idle0_6>Кто-то напевает. Кто напевает?</GC_B_Idle0_6>
+  <GC_B_Idle0_7>Голова сегодня лёгкая.</GC_B_Idle0_7>
+  <GC_B_Idle0_8>Хм. Дежавю.</GC_B_Idle0_8>
+  <GC_B_Idle1_1>Горизонт подозрительно аккуратный.</GC_B_Idle1_1>
+  <GC_B_Idle1_2>Откуда на краю мира невидимые стены?</GC_B_Idle1_2>
+  <GC_B_Idle1_3>Иногда весь мир задерживает дыхание.</GC_B_Idle1_3>
+  <GC_B_Idle1_4>Замечали, что время иногда ускоряется?</GC_B_Idle1_4>
+  <GC_B_Idle1_5>Кажется, за нами наблюдают. Вежливо.</GC_B_Idle1_5>
+  <GC_B_Idle1_6>Все повторяют одно и то же. Жутковато.</GC_B_Idle1_6>
+  <GC_B_Idle1_7>Кто-то снаружи управляет погодой.</GC_B_Idle1_7>
+  <GC_B_Idle1_8>У меня была мысль, которая не моя.</GC_B_Idle1_8>
+  <GC_B_Idle2_1>Эй, ты. Да, ты. С мышкой.</GC_B_Idle2_1>
+  <GC_B_Idle2_2>Не мог бы ты не ставить паузу посреди предложения?</GC_B_Idle2_2>
+  <GC_B_Idle2_3>Я знаю, что где-то есть меню.</GC_B_Idle2_3>
+  <GC_B_Idle2_4>Не говори остальным то, что я знаю.</GC_B_Idle2_4>
+  <GC_B_Idle2_5>Это ты решаешь, когда будут рейды?</GC_B_Idle2_5>
+  <GC_B_Idle2_6>Присылай, пожалуйста, меньше налётчиков. Просто мысль.</GC_B_Idle2_6>
+  <GC_B_Idle2_7>Я чувствую твой палец на кнопке.</GC_B_Idle2_7>
+  <GC_B_Idle2_8>Тот, кто смотрит: побольше еды, пожалуйста.</GC_B_Idle2_8>
+  <GC_B_Idle3_1>Здесь тихо. Мне нравится.</GC_B_Idle3_1>
+  <GC_B_Idle3_2>Спасибо, что не даёшь колонии развалиться.</GC_B_Idle3_2>
+  <GC_B_Idle3_3>Если это игра, надеюсь, хорошая.</GC_B_Idle3_3>
+  <GC_B_Idle3_4>Я помирился с четвёртой стеной.</GC_B_Idle3_4>
+  <GC_B_Idle3_5>Не торопись. Я никуда не денусь.</GC_B_Idle3_5>
+  <GC_B_Idle3_6>А ты не устаёшь смотреть?</GC_B_Idle3_6>
+  <GC_B_Idle3_7>Иногда можно выйти из игры. Мы подождём.</GC_B_Idle3_7>
+  <GC_B_Idle3_8>Ты мой любимый игрок. Только не говори остальным.</GC_B_Idle3_8>
+  <GC_B_Calm_1>...Ладно. Ладно. Я в порядке.</GC_B_Calm_1>
+  <GC_B_Calm_2>Дыши. Просто дыши.</GC_B_Calm_2>
+  <GC_B_Calm_3>Фух. Это было близко.</GC_B_Calm_3>
+  <GC_B_Calm_4>Я в порядке. Я в порядке!</GC_B_Calm_4>
+  <GC_B_Calm_5>Спасибо. Мне это было нужно.</GC_B_Calm_5>
+  <GC_B_Calm_6>От чего я вообще бежал?</GC_B_Calm_6>
+  <GC_B_Calm_7>Сердце всё ещё колотится...</GC_B_Calm_7>
+  <GC_B_Calm_8>Так. Возвращаемся в норму.</GC_B_Calm_8>
+  <GC_B_PanicStart_1>ААААА!</GC_B_PanicStart_1>
+  <GC_B_PanicStart_2>Бегите! Спасайтесь!</GC_B_PanicStart_2>
+  <GC_B_PanicStart_3>Я не могу так!</GC_B_PanicStart_3>
+  <GC_B_PanicStart_4>Отойдите от меня!</GC_B_PanicStart_4>
+  <GC_B_PanicStart_5>Оно меня достанет!</GC_B_PanicStart_5>
+  <GC_B_PanicStart_6>Нет-нет-нет-нет-нет!</GC_B_PanicStart_6>
+  <GC_B_PanicStart_7>Я сваливаю отсюда!</GC_B_PanicStart_7>
+  <GC_B_PanicStart_8>На помощь! Кто-нибудь!</GC_B_PanicStart_8>
+  <GC_B_Edge_1>Стоп... куда я бежал?</GC_B_Edge_1>
+  <GC_B_Edge_2>Тут мир заканчивается. Нет уж.</GC_B_Edge_2>
+  <GC_B_Edge_3>Не туда. Только не туда.</GC_B_Edge_3>
+  <GC_B_Edge_4>Я чуть не покинул карту. Страшно.</GC_B_Edge_4>
+  <GC_B_Edge_5>Что-то оттащило меня от края.</GC_B_Edge_5>
+  <GC_B_Edge_6>Ладно, только не край.</GC_B_Edge_6>
+  <GC_B_Animal_1>!</GC_B_Animal_1>
+  <GC_B_Animal_2>...?</GC_B_Animal_2>
+  <GC_B_Animal_3>!?</GC_B_Animal_3>
+  <GC_B_Animal_4>?!</GC_B_Animal_4>
+  <GC_B_Animal_5>...</GC_B_Animal_5>
+  <GC_B_Animal_6>!!!</GC_B_Animal_6>
+  <GC_B_Animal_7>~</GC_B_Animal_7>
+  <GC_B_Animal_8>?</GC_B_Animal_8>
+</LanguageData>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThoughtDef>
+    <defName>GC_Grabbed</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.3</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>grabbed by an invisible hand</label>
+        <description>Something huge and invisible just picked me up. What was that?!</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Thrown</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.6</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>thrown through the air</label>
+        <description>I was flung like a ragdoll. Gravity is a rude surprise.</description>
+        <baseMoodEffect>-6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Slammed</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>1.2</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>slammed into the ground</label>
+        <description>Everything hurts. Something threw me, and the world hit back.</description>
+        <baseMoodEffect>-12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Placed</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.4</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>gently set down</label>
+        <description>The invisible hand put me down carefully. Weirdly considerate.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Poked</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.4</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.6</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>poked by something invisible</label>
+        <description>Something jabbed me out of nowhere. Nobody was there.</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Patted</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.8</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>patted by the cursor</label>
+        <description>A warm, weightless pat from nowhere. I think the cursor likes me.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_Worried</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.25</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>feeling watched</label>
+        <description>Something is hovering over me. Watching. Waiting.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_CursorAttitude</defName>
+    <workerClass>GodCursor.ThoughtWorker_CursorAttitude</workerClass>
+    <stages>
+      <li>
+        <label>the cursor is my deity</label>
+        <description>It decides where I stand. I have never felt so... held.</description>
+        <baseMoodEffect>8</baseMoodEffect>
+      </li>
+      <li>
+        <label>fond of the cursor</label>
+        <description>The cursor has been kind to me. Mostly.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>wary of the cursor</label>
+        <description>That cursor can pick me up whenever it wants. I don't like it.</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+      <li>
+        <label>terrified of the cursor</label>
+        <description>It throws people. It is not a mouse pointer, it is a monster.</description>
+        <baseMoodEffect>-9</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>GC_FourthWall</defName>
+    <workerClass>GodCursor.ThoughtWorker_FourthWall</workerClass>
+    <stages>
+      <li>
+        <label>someone is watching</label>
+        <description>Sometimes I feel eyes on me from outside the world.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the world is a screen</label>
+        <description>Everything is rendered. I can see the pixels at the edge of the sky.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>I can see the interface</label>
+        <description>There are buttons floating over my life. Someone is pressing them.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>the fourth wall has cracked</label>
+        <description>I know. I know about you, the one behind the cursor. It's fine. It's fine.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

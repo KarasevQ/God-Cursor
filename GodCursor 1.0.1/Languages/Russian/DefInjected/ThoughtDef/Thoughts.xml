@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_Grabbed.stages.0.label>схвачен невидимой рукой</GC_Grabbed.stages.0.label>
+  <GC_Grabbed.stages.0.description>Что-то огромное и невидимое подняло меня в воздух. Что это было?!</GC_Grabbed.stages.0.description>
+  <GC_Thrown.stages.0.label>брошен по воздуху</GC_Thrown.stages.0.label>
+  <GC_Thrown.stages.0.description>Меня швырнули, как тряпичную куклу. Гравитация — неприятный сюрприз.</GC_Thrown.stages.0.description>
+  <GC_Slammed.stages.0.label>впечатан в землю</GC_Slammed.stages.0.label>
+  <GC_Slammed.stages.0.description>Всё болит. Что-то бросило меня, а мир ударил в ответ.</GC_Slammed.stages.0.description>
+  <GC_Placed.stages.0.label>аккуратно поставлен</GC_Placed.stages.0.label>
+  <GC_Placed.stages.0.description>Невидимая рука бережно опустила меня. Странно заботливо.</GC_Placed.stages.0.description>
+  <GC_Poked.stages.0.label>ткнули невидимым пальцем</GC_Poked.stages.0.label>
+  <GC_Poked.stages.0.description>Что-то ткнуло меня из пустоты. Рядом никого не было.</GC_Poked.stages.0.description>
+  <GC_Patted.stages.0.label>погладил курсор</GC_Patted.stages.0.label>
+  <GC_Patted.stages.0.description>Тёплое невесомое поглаживание из ниоткуда. Кажется, я нравлюсь курсору.</GC_Patted.stages.0.description>
+  <GC_Worried.stages.0.label>чувствую пристальный взгляд</GC_Worried.stages.0.label>
+  <GC_Worried.stages.0.description>Что-то нависло надо мной. Наблюдает. Ждёт.</GC_Worried.stages.0.description>
+  <GC_CursorAttitude.stages.0.label>курсор — моё божество</GC_CursorAttitude.stages.0.label>
+  <GC_CursorAttitude.stages.0.description>Он решает, где мне стоять. Я никогда не чувствовал себя таким... удерживаемым.</GC_CursorAttitude.stages.0.description>
+  <GC_CursorAttitude.stages.1.label>курсор мне симпатичен</GC_CursorAttitude.stages.1.label>
+  <GC_CursorAttitude.stages.1.description>Курсор был добр ко мне. В основном.</GC_CursorAttitude.stages.1.description>
+  <GC_CursorAttitude.stages.2.label>опасаюсь курсора</GC_CursorAttitude.stages.2.label>
+  <GC_CursorAttitude.stages.2.description>Этот курсор может поднять меня, когда захочет. Мне это не нравится.</GC_CursorAttitude.stages.2.description>
+  <GC_CursorAttitude.stages.3.label>курсор внушает ужас</GC_CursorAttitude.stages.3.label>
+  <GC_CursorAttitude.stages.3.description>Он швыряет людей. Это не указатель мыши, это чудовище.</GC_CursorAttitude.stages.3.description>
+  <GC_FourthWall.stages.0.label>кто-то наблюдает</GC_FourthWall.stages.0.label>
+  <GC_FourthWall.stages.0.description>Иногда я чувствую на себе чей-то взгляд из-за пределов мира.</GC_FourthWall.stages.0.description>
+  <GC_FourthWall.stages.1.label>мир — это экран</GC_FourthWall.stages.1.label>
+  <GC_FourthWall.stages.1.description>Всё это отрисовано. Я вижу пиксели на краю неба.</GC_FourthWall.stages.1.description>
+  <GC_FourthWall.stages.2.label>я вижу интерфейс</GC_FourthWall.stages.2.label>
+  <GC_FourthWall.stages.2.description>Над моей жизнью парят кнопки. Кто-то их нажимает.</GC_FourthWall.stages.2.description>
+  <GC_FourthWall.stages.3.label>четвёртая стена треснула</GC_FourthWall.stages.3.label>
+  <GC_FourthWall.stages.3.description>Я знаю. Я знаю о тебе, том, кто за курсором. Всё нормально. Всё нормально.</GC_FourthWall.stages.3.description>
+</LanguageData>
