@@ -15,7 +15,7 @@ It adds the ability to turn the cursor—which previously could only select pawn
 * Poke.
 * Throw anyone off the map (toggleable feature).
 
-![Pawn](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Кинуть-пешку.gif?raw=true)
+![Pawn](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Images/Кинуть_пешку.gif?raw=true)
 
 And that's not all: if you haven't disabled the "Fourth Wall" and "Pawns talk to themselves and to you" settings, pawns will…:
 
@@ -27,7 +27,7 @@ And that's not all: if you haven't disabled the "Fourth Wall" and "Pawns talk to
 
 ## Controls:
 
-![Injure](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Бросок-с-уроном.gif?raw=true)
+![Injure](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Images/Бросок_с_уроном.gif?raw=true)
 
 F8 – Open the mod menu and enable/disable the God Cursor. (Can be changed in controls)
 
@@ -98,7 +98,7 @@ Well… Thanks Claude?
 * Тыкать.
 * Выбрасывать кого угодно за пределы карты (Отключаемая функция).
 
-![Pawn](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Кинуть-пешку.gif?raw=true)
+![Pawn](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Images/Кинуть_пешку.gif?raw=true)
 
 И это не все, если вы не выключили параметр «Четвертая стена» и «Пешки говорят с собой и с вами», то пешки…:
 
@@ -110,7 +110,7 @@ Well… Thanks Claude?
 
 ##  Управление:
 
-![Injure](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Бросок-с-уроном.gif?raw=true)
+![Injure](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Images/Бросок_с_уроном.gif?raw=true)
 
 F8 – Вызов меню мода и включение/выключение курсора-бога. (Можно изменить в управлении)
 
