@@ -1,8 +1,8 @@
 ## ENG
 
 # God Cursor
-Mod for Rimworld 1.6
 
+![Preview](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Prev.png?raw=true)
 
 ## What does this mod do?
 It adds the ability to turn the cursor—which previously could only select pawns and control them through menus—into… a God Cursor! Now your cursor can:
@@ -25,6 +25,8 @@ And that's not all: if you haven't disabled the "Fourth Wall" and "Pawns talk to
 
 ## Controls:
 
+![Preview](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Налёт.gif?raw=true)
+
 F8 – Open the mod menu and enable/disable the God Cursor. (Can be changed in controls)
 
 | Action | Result |
@@ -37,6 +39,11 @@ F8 – Open the mod menu and enable/disable the God Cursor. (Can be changed in c
 | Simple click without dragging | normal pawn selection |
 
 ## Settings window:
+
+![MenuF8](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Меню1.png?raw=true)
+
+![MenuNM](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Меню2.png?raw=true)
+
 * **Throws deal damage** / **Damage can be lethal** / damage multiplier / throw force.
 * **Do not let pawns leave the map** (enabled by default). Enabled: thrown pawns bounce off the edge, and panicking pawns are calmed before they can reach the edge. Disabled: a pawn thrown over the edge truly leaves the map (can be lost forever).
 * **Fourth Wall** — lines, attitude toward the cursor, awareness.
@@ -58,7 +65,7 @@ I am not hiding at all that I used AI while creating the mod. However, the mod w
 * A pawn doesn't fly off the map edge. – Check whether the “Do not let pawns leave the map” setting is disabled.
 * I can't deal damage – Same as #3: check the first two settings, “Throws deal damage” and “Damage can be lethal,” and enable the first or both depending on what you want from it. You can also edit the damage amount with the slider.
 * I don't want this reaction system – You can disable it completely and just drag pawns. Just disable the “Fourth Wall” and “Pawns talk to themselves and to you” settings.
-   Will the mod be available for version 1.7? - I’m not sure. I use the GOG version, and I haven’t updated to 1.7 because I’m running Windows 7 with 4 GB of RAM. I might release a version for 1.7, but I won’t be able to test it myself—though the developers did promise that 1.7 would be compatible with 1.6 mods, presumably without requiring any changes. You could try changing 1.6 to "1.7" in the About.xml file and see if it works.
+* Will the mod be available for version 1.7? - I’m not sure. I use the GOG version, and I haven’t updated to 1.7 because I’m running Windows 7 with 4 GB of RAM. I might release a version for 1.7, but I won’t be able to test it myself—though the developers did promise that 1.7 would be compatible with 1.6 mods, presumably without requiring any changes. You could try changing 1.6 to "1.7" in the About.xml file and see if it works.
 
 ## Credits:
 
@@ -73,6 +80,8 @@ Well… Thanks Claude?
 ## RUS
 
 # God Cursor
+
+![Preview](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Prev.png?raw=true)
 
 ##  Что делает этот мод?
 Он добавляет возможность превратить курсор, который ранее был способен лишь выбирать пешек и управлять ими через меню в… Бога-курсора! Теперь ваш курсор будет способен:
