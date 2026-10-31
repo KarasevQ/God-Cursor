@@ -73,6 +73,10 @@ I am not hiding at all that I used AI while creating the mod. However, the mod w
 
 ![Raid](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Налёт.gif?raw=true)
 
+## Requirements:
+
+Harmony is required
+
 ## Credits:
 
 Well… Thanks Claude?
@@ -170,6 +174,10 @@ F8 – Вызов меню мода и включение/выключение �
 * Будет ли мод доступен для 1.7? - Я не уверен. У меня GOG и я не обновился до 1.7 из-за своего Win 7 и 4 ГБ ОЗУ. Возможно я выложу это для 1.7, но тестировать я это уже не смогу, хотя разработчики обещали совместимость 1.7 с модами из 1.6, вроде как без изменений. Вы можете сменить 1.6 в About.xml на 1.7 и проверить работоспособность.
 
 ![Raid](https://github.com/KarasevQ/God-Cursor/blob/main/Images/Налёт.gif?raw=true)
+
+## Требования:
+
+Требуется Harmony
 
 ##  Кредиты:
 
